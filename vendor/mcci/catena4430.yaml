@@ -11,7 +11,7 @@ description: Passive Infrared Sensor optimized for monitoring laboratory animals
 # Firmware versions (at least one mandatory)
 firmwareVersions:
   - # Firmware version
-    version: '1.0.0'
+    version: '1.2.0.1'
     numeric: 1
     #   corresponding hardware versions (optional)
     #   hardwareVersions:
